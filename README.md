@@ -252,14 +252,13 @@ Proceso completado!
 ### Aspectos Destacados
 
 - Algoritmo genético híbrido (AG + búsqueda local)
-- Comentarios concisos y precisos en español
 - Visualización comparativa antes/después
 - Documentación técnica exhaustiva
 - Código modular y extensible
 
 ## Autor
-
-Sistema desarrollado para optimización de horarios académicos utilizando técnicas de inteligencia artificial.
+-Eduardo Tovar
+-
 
 **Versión**: 1.0  
 **Fecha**: Enero 2026  
