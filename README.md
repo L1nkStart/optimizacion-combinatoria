@@ -15,7 +15,6 @@ Este sistema resuelve el problema NP-completo de asignación de horarios académ
 - **Algoritmo Genético Híbrido**: Combina operadores genéticos clásicos con búsqueda local
 - **Restricciones Duras y Blandas**: Sistema flexible de penalizaciones
 - **Visualización Completa**: Muestra horarios antes y después de la optimización
-- **Comentarios en Español**: Código totalmente documentado sin emojis
 - **Análisis de Conflictos**: Identifica y cuantifica todos los problemas
 
 ## Requisitos
